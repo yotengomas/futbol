@@ -9,3 +9,26 @@ https://cdn.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/sa_hls_full_e_95AEFAB
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=bc80fa3da696e503f940fde5f681a1c5:ea46e4e9f1132e8dd71fb77f7d55058a
 https://cdn.cvattv.com.ar/live/c6eds/TNT_Sports_HD/sa_hls_full_e_95AEFABF606F67368D62A486/TNT_Sports_HD.m3u8
+
+#EXTINF:-1 tvg-id="53187" tvg-name="TNT SPORTS AR *LQ" tvg-logo="http://xdplayer.tv:8080/images/3a967ce473c822aa5a0f3000b39e5238.png" group-title="Futbol ARG", TNT SPORTS AR *LQ
+http://xdplayer.tv:8080/FIGUEROA24/ac8KqkA9DM/53187
+#EXTINF:-1 tvg-id="29664" tvg-name="TNT SPORTS AR *HQ" tvg-logo="http://xdplayer.tv:8080/images/3a967ce473c822aa5a0f3000b39e5238.png" group-title="Futbol ARG", TNT SPORTS AR *HQ
+http://xdplayer.tv:8080/FIGUEROA24/ac8KqkA9DM/29664
+#EXTINF:-1 tvg-id="1815" tvg-name="TNT SPORTS AR *HD" tvg-logo="http://xdplayer.tv:8080/images/3a967ce473c822aa5a0f3000b39e5238.png" group-title="Futbol ARG", TNT SPORTS AR *HD
+http://xdplayer.tv:8080/FIGUEROA24/ac8KqkA9DM/1815
+#EXTINF:-1 tvg-id="53189" tvg-name="TNT SPORTS AR *HD | op2" tvg-logo="http://xdplayer.tv:8080/images/3a967ce473c822aa5a0f3000b39e5238.png" group-title="Futbol ARG", TNT SPORTS AR *HD | op2
+http://xdplayer.tv:8080/FIGUEROA24/ac8KqkA9DM/53189
+#EXTINF:-1 tvg-id="1816" tvg-name="TNT SPORTS AR *FHD" tvg-logo="http://xdplayer.tv:8080/images/71e0c940e9894626c927e796b0a93710.png" group-title="Futbol ARG", TNT SPORTS AR *FHD
+http://xdplayer.tv:8080/FIGUEROA24/ac8KqkA9DM/1816
+#EXTINF:-1 tvg-id="53188" tvg-name="TNT SPORTS AR *FHD | op2" tvg-logo="http://xdplayer.tv:8080/images/71e0c940e9894626c927e796b0a93710.png" group-title="Futbol ARG", TNT SPORTS AR *FHD | op2
+http://xdplayer.tv:8080/FIGUEROA24/ac8KqkA9DM/53188
+#EXTINF:-1 tvg-id="29665" tvg-name="ESPN PREMIUM AR *LQ" tvg-logo="http://xdplayer.tv:8080/images/47ed26edc872fb218e9d76714015851c.png" group-title="Futbol ARG", ESPN PREMIUM AR *LQ
+http://xdplayer.tv:8080/FIGUEROA24/ac8KqkA9DM/29665
+#EXTINF:-1 tvg-id="40910" tvg-name="ESPN PREMIUM AR *HQ" tvg-logo="http://xdplayer.tv:8080/images/47ed26edc872fb218e9d76714015851c.png" group-title="Futbol ARG", ESPN PREMIUM AR *HQ
+http://xdplayer.tv:8080/FIGUEROA24/ac8KqkA9DM/40910
+#EXTINF:-1 tvg-id="40149" tvg-name="ESPN PREMIUM AR *HQ" tvg-logo="http://xdplayer.tv:8080/images/47ed26edc872fb218e9d76714015851c.png" group-title="Futbol ARG", ESPN PREMIUM AR *HQ
+http://xdplayer.tv:8080/FIGUEROA24/ac8KqkA9DM/40149
+#EXTINF:-1 tvg-id="1780" tvg-name="ESPN PREMIUM AR *HD" tvg-logo="http://xdplayer.tv:8080/images/47ed26edc872fb218e9d76714015851c.png" group-title="Futbol ARG", ESPN PREMIUM AR *HD
+http://xdplayer.tv:8080/FIGUEROA24/ac8KqkA9DM/1780
+#EXTINF:-1 tvg-id="2359" tvg-name="ESPN PREMIUM AR *FHD" tvg-logo="http://xdplayer.tv:8080/images/47ed26edc872fb218e9d76714015851c.png" group-title="Futbol ARG", ESPN PREMIUM AR *FHD
+http://xdplayer.tv:8080/FIGUEROA24/ac8KqkA9DM/2359
